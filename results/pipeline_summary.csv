@@ -1,0 +1,7 @@
+Metric,Value
+Valid cleaned events,98430
+Unique users in model-ready data,52953
+Prediction cutoff,2025-01-08 13:40:21
+Observation end,2025-01-15 13:40:21
+Active next 7 days = 1,10939
+Active next 7 days = 0,42014
